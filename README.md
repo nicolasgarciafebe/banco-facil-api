@@ -7,12 +7,13 @@ Este arquivo e gerado automaticamente pela pipeline.
 
 - Nicolas Garcia dos Santos
 - Gustavo Cardoso de Melo
+- Enrique Picanço
 
 ## Resultado do Docker Build
 
 | Item | Valor |
 |---|---|
 | Status | ⚪ Pulado (algum gate de seguranca falhou) |
-| Commit | `c59e84be83f106a73d45fd2d1a8e42a7e38a08cf` |
-| Execucao | [35663483488](https://github.com/nicolasgarciafebe/banco-facil-api/actions/runs/35663483488) |
-| Data | 21/09/2026 22:36 UTC |
+| Commit | `6df9ca863e11b8231814b904c7d9a9b178b98630` |
+| Execucao | [36461382631](https://github.com/nicolasgarciafebe/banco-facil-api/actions/runs/36461382631) |
+| Data | 28/09/2026 17:54 UTC |
